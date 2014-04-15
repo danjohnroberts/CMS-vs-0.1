@@ -1,9 +1,9 @@
 <div class="row">
    <div class="panel" id="courses_table">
       <br />
-      <a class="radius button"  href="<?PHP echo base_url(); ?>apply/<?php echo $url?>" >Apply Now</a>  
+      <a class="radius button"  href="<?PHP echo base_url(); ?>apply/<?php echo $url?>" >Apply now or contact us</a>  
       <p>&nbsp;</p>
-      <p>or,&nbsp;<a title="download PDF application form" href="<?PHP echo base_url(); ?>images/Application-form-new-version-2013-14.pdf" target="_blank"><strong>download PDF application form</strong></a>
+      <p>or,&nbsp;<a title="download PDF application form" href="<?PHP echo base_url(); ?>images/WFC_Application_form_2014-15.pdf" target="_blank"><strong>download PDF application form</strong></a>
       <hr />
       <h3><?php  echo $title ?>	</h3>
       <h5>Mode of Study</h5>
@@ -16,7 +16,7 @@
       <?php echo $entry_requirements ;?>
       <h5>What you will Study </h5>
       <?php echo $what_study ;?>
-      <h5>How will I be assessed </h5>
+      <h5>How will I be assessed?</h5>
       <?php echo $assessed ;?>
       <h5>Where it can take you?</h5>
       <?php echo $where ;?>

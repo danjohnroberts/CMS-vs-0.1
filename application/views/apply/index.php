@@ -29,7 +29,7 @@
                     
                
 
-  <h4> <?php   	$subject = str_replace("-", " ", $title );   	$subject = strtoupper($subject);     echo "". $subject ;  ?></h4>
+  <h4 > <?php   	$subject = str_replace("-", " ", $title );   	$subject = strtoupper($subject);     echo "". $subject ;  ?></h4>
 
 <hr/>
 

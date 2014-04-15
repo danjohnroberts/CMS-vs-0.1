@@ -11,12 +11,9 @@
       London E17 4JB
    </p>
    <p>Main Tel:&nbsp;<strong>020 8501 8000</strong></p>
-   <p>International Office: <a href="tel:020%208501%208106" value="+442085018106" target="_blank">020 8501 8106</a></p>
-   <p>&nbsp;</p>
-   <p>Fax:&nbsp;<strong>020 8501 8001</strong></p>
-   <p>Courses:&nbsp;<strong>020 8501 8501</strong>          </p>
+   <p>International Office: <a href="tel:020%208501%208106" value="+442085018106" target="_blank">020 8501 8106</a>   </p>
    <form id="contact1" name="contact"  method="post">
-      <p>      <label for="fname">Name <span>*</span></label>	</p>
+   <p>      <label for="fname">Name <span>*</span></label>	</p>
       <p>   <input type="text" id="fname" name="fname" class="required input"> 	</p>
       <p>      <label for="telephone">Telephone<span>*</span></label>	</p>
       <p>   <input type="text" id="telephone" name="telephone" class="required input"> 	</p>

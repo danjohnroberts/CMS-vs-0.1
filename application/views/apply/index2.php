@@ -20,12 +20,12 @@
           
           <hr/>
           
-        <p><strong><a href="<?PHP echo base_url(); ?>images/Application-form-new-version-2013-14.pdf"> download an application form</a>
+        <p><strong><a href="<?PHP echo base_url(); ?>images/WFC_Application_form_2014-15.pdf"> download an application form</a>
         </strong> or contact us below</p>
          
          <hr />
         
-     <h4><?PHP echo $course; ?></h4>
+     <h4 class="upppercase"><?PHP echo $course; ?></h4>
      
      <hr />
                
