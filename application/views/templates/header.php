@@ -22,7 +22,7 @@
                
                <!-- Set the viewport width to device width for mobile -->
                <meta name="viewport" content="width=device-width" />
-               <title>Waltham Forest Collage | <?PHP echo $title ?></title>
+               <title>Waltham Forest College | <?PHP echo $title ?></title>
                <!-- Included CSS Files (Uncompressed) -->
                <!--
                   <link rel="stylesheet" href="stylesheets/foundation.css">

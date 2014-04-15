@@ -3,7 +3,7 @@
       <br />
       <a class="radius button"  href="<?PHP echo base_url(); ?>apply/<?php echo $url?>" >Apply Now</a>  
       <p>&nbsp;</p>
-      <p>or,&nbsp;<a title="download PDF application form" href="http://www.waltham.ac.uk/images/stories/wfcapplicationform.pdf" target="_blank"><strong>download PDF application form</strong></a>
+      <p>or,&nbsp;<a title="download PDF application form" href="<?PHP echo base_url(); ?>images/Application-form-new-version-2013-14.pdf" target="_blank"><strong>download PDF application form</strong></a>
       <hr />
       <h3><?php  echo $title ?>	</h3>
       <h5>Mode of Study</h5>
