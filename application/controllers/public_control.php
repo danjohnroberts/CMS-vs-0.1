@@ -64,6 +64,10 @@ class public_control extends CI_Controller
             $data['title'] = $data['page_content']['title'];
             
             $data['content'] = $data['page_content']['content'];
+			
+		
+			
+		
             
             
             $this->load->view('templates/header', $data);
@@ -98,15 +102,16 @@ class public_control extends CI_Controller
         
         
         $data['page_content'] = $this->pages_model->get_page_public($slug);
-        
-        
-        
+         
         if ($data['category'] = $this->pages_model->get_page_catagory_slug($slug)) {
             
             
             $data['title'] = $data['category']['title'];
             
             $data['content'] = $data['category']['content'];
+			
+			//	$data['slug'] = $slug ;
+				$data['slug'] = $data['category'];
             
             
             $this->load->view('templates/header', $data);

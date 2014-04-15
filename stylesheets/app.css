@@ -16,12 +16,12 @@ margin-left: 40px;
 
 .button {
 	background: #f26722;
-	border: 1px solid #C30;
+	border: 1px solid #333;
 }
 
 .button:hover {
-	border: 1px solid #C00;
-	background-color: #C00;
+	border: 1px solid #999;
+	background-color: #060;
 }
 
 /* -----------------------------------------

@@ -1,6 +1,7 @@
 <div class="row">
    <div class="panel background" id="courses_table">
       <h1><?php echo $title; ?></h1>
+    
       <?php echo $content; ?>
    </div>
 </div>

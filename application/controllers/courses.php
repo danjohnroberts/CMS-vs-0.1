@@ -97,9 +97,9 @@ class courses extends CI_Controller
             
             $this->load->view('templates/nav-bar', $data);
             
-            
             $this->load->view('courses/catagory', $data);
-            $this->load->view('templates/footer');
+            
+			$this->load->view('templates/footer');
         } 
         
         else {
