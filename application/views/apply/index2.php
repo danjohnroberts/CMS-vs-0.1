@@ -6,17 +6,17 @@
       <div class="panel">
  
      
-       <ul class="breadcrumbs">
-  <li><a href="<?PHP echo base_url(); ?>">Home</a></li>
+    <!--   <ul class="breadcrumbs">
+  <li><a href="<?PHP //echo base_url(); ?>">Home</a></li>
   
  
 
-  <li class="current"><a href="#">Apply</a></li>
+  <li class="current"><a href="#">Contact us</a></li>
   
  
-</ul>
+</ul> -->
                 
-          <h3>Apply</h3>
+          <h3>Contact us</h3>
           
           <hr/>
           

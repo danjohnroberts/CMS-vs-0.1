@@ -97,14 +97,17 @@ class ajax extends CI_Controller
         
         
         $Body2 = "<p>Dear " . $fname . "</p>
-<p>Thank you for registering your interest in Waltham Forrest College International.</p>
+<p>Hello,</p> 
+<p>Thank you for your interest in studying with us.</p>
+<p>A member of our international team will get back to you shortly to answer your question.</p>
+ 
+<p>Kind regards,</p> 
 
-<p>A member of our team will be in contact </p> 
-
-
-
-<p>Best regards,<p>
-<p>Waltham Forrest College</P>
+<p><strong>International Office</strong></p> 
+<p>Waltham Forest College</p> 
+<p>London</p> 
+<p><a href=\"http://www.waltham.ac.uk/international\">www.waltham.ac.uk/international</a></p> 
+<p><br>Tel: +44 (0) 20 8501 8106/8091</p> 
 
 ";
         
@@ -189,15 +192,18 @@ class ajax extends CI_Controller
         ///////////////////////////////////////////
         
         
-        $Body2 = "<p>Dear " . $fname . "</p>
-<p>Thank you for registering your interest in a courses at Waltham Collage International.</p>
+        $Body2 = "<p>Hello, " . $fname . "</p>
+<p>Hello,</p> 
+<p>Thank you for your interest in studying with us.</p>
+<p>A member of our international team will get back to you shortly to answer your question.</p>
+ 
+<p>Kind regards,</p> 
 
-<p>A member of our team will be in contact </p> 
-
-
-
-<p>Best regards,<p>
-<p>Waltham Forest College International</P>
+<p><strong>International Office</strong></p> 
+<p>Waltham Forest College</p> 
+<p>London</p> 
+<p><a href=\"http://www.waltham.ac.uk/international\">www.waltham.ac.uk/international</a></p> 
+<p><br>Tel: +44 (0) 20 8501 8106/8091</p> 
 
 ";
    

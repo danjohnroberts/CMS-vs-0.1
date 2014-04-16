@@ -1,7 +1,7 @@
 <div class="row">
    <div class="panel" id="courses_table">
       <br />
-      <a class="radius button"  href="<?PHP echo base_url(); ?>apply/<?php echo $url?>" >Apply now or contact us</a>  
+      <a class="radius button"  href="<?PHP echo base_url(); ?>apply/<?php echo $url?>" >Contact us</a>  
       <p>&nbsp;</p>
       <p>or,&nbsp;<a title="download PDF application form" href="<?PHP echo base_url(); ?>images/WFC_Application_form_2014-15.pdf" target="_blank"><strong>download PDF application form</strong></a>
       <hr />

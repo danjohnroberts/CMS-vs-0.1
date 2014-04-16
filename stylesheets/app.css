@@ -8,6 +8,11 @@
 :: Page Name 2
 */
 
+p a:hover {
+	
+text-decoration: underline;	
+}
+
 .columns ul li , .row  ul li {
 	
 margin-left: 40px;	
@@ -45,15 +50,52 @@ margin-left: 40px;
 .background {
 	background-image: url(../images/page-background.jpg);
 	background-repeat: no-repeat;
-	background-position: left toppx;
+	
 }
 
-h1 {font-size: 24px;}
+.accommodation  {
+	background-image: url(../images/page-background-accommodation.jpg);
+	background-repeat: no-repeat;
+}
 
-h3, h1 {
+.how-to-apply  {
+	background-image: url(../images/page-background-apply.jpg);
+	background-repeat: no-repeat;
+}
+
+
+.british-culture, .finances , .health-care,.law-and-staying-safe, .transport  {
+	background-image: url(../images/page-background-life.jpg);
+	background-repeat: no-repeat;
+}
+
+.preparing-to-come-to-the-uk, .student-visas  {
+	background-image: url(../images/page-background-immigration.jpg);
+	background-repeat: no-repeat;
+}
+
+.why-choose-wfc, .location, .leisure-facilities, .student-support, .study-facilities , .term-dates, .refund-policy, .general-information-in-portuguese {
+	background-image: url(../images/page-background-college.jpg);
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+h3 {
 	padding-bottom: 20px;
 	font-size: 18px;
 	color: #333;
+}
+
+h1 {
+	
+	text-align: right;
+	color: #333;
+	font-size: 24px;
+	margin-bottom: 10px;
 }
 
 #courses_table table {
@@ -105,7 +147,7 @@ background-color: #3C9;
 
 background-color:rgba(255,255,255,0.50);
 
-
+padding-left: 30px;
 
 border:none
 	
@@ -135,3 +177,4 @@ border:none
 .upppercase {
 	text-transform:capitalize;
 }
+

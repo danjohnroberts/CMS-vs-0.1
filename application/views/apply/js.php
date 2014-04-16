@@ -81,9 +81,7 @@ $(document).ready(function(){
 $("#contact1").fadeOut("fast", function(){
 	
 	
-				$(this).before("<br/><p id=\"contact1\"><strong>THANK YOU</strong><br/>\
-We have registered your interest in Waltham Forest Collage. We will contact you shortly <br/><br/>\
-</p>");
+				$(this).before("<br/><p id=\"contact1\"><strong>Thank you, your email has been sent</p>");
 					
 							});
 					//	}

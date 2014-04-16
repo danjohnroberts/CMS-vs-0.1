@@ -70,9 +70,18 @@
    $("#contact1").fadeOut("fast", function(){
    	
    	
-   				$(this).before("<br/><p id=\"contact1\"><strong>THANK YOU</strong><br/>\
-   We have registered your interest in Waltham Forest Collage. We will contact you shortly <br/><br/>\
-   </p>");
+   				$(this).before("<br/><p id=\"contact1\">Hello,<br/>\
+Thank you for your interest in studying with us.<br/>\
+A member of our international team will get back to you shortly to answer your question.<br/>\
+<br/>\
+Kind regards,<br/>\
+<br/>\
+International Office<br/>\
+Waltham Forest College<br/>\
+London<br/>\
+<a hre=\"http://www.waltham.ac.uk/international\">www.waltham.ac.uk/international</a><br/>\
+<br/>\
+Tel: +44 (0) 20 8501 8106/8091</p>");
    					
    							});
    					//	}

@@ -67,7 +67,7 @@ class public_control extends CI_Controller
 			
 		
 			
-		
+		   $data['slug'] = $slug;
             
             
             $this->load->view('templates/header', $data);
@@ -110,9 +110,8 @@ class public_control extends CI_Controller
             
             $data['content'] = $data['category']['content'];
 			
-			//	$data['slug'] = $slug ;
-				$data['slug'] = $data['category'];
-            
+			
+             $data['slug'] = $slug;
             
             $this->load->view('templates/header', $data);
             

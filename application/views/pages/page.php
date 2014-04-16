@@ -1,5 +1,5 @@
 <div class="row">
-   <div class="panel background" id="courses_table">
+   <div class="panel background <?php echo $slug; ?>" id="courses_table">
       <h1><?php echo $title; ?></h1>
     
       <?php echo $content; ?>
