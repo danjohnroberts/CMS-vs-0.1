@@ -13,8 +13,8 @@
       <!-- Right Nav Section -->
       <ul class="right">
          <li class='divider'></li>
-         <li ><a href="<?PHP echo base_url(); ?>">Home</a></li>
-         <li class='divider'></li>
+     
+   
          <li ><a href="<?PHP echo base_url(); ?>courses">Courses</a></li>
          <?php 
             foreach ($get_page_catagories as $data): ?> 

@@ -1,9 +1,9 @@
 <div class="row">
    <div class="panel" id="courses_table">
       <br />
-      <a class="radius button"  href="<?PHP echo base_url(); ?>apply/<?php echo $url?>" >Contact us</a>  
+      <a class="radius button"  href="<?PHP echo base_url(); ?>contact/" >Contact us to apply</a>  
       <p>&nbsp;</p>
-      <p>or,&nbsp;<a title="download PDF application form" href="<?PHP echo base_url(); ?>images/WFC_Application_form_2014-15.pdf" target="_blank"><strong>download PDF application form</strong></a>
+      <p>or,&nbsp;<a title="download PDF application form" href="<?PHP echo base_url(); ?>images/Application_form_new_version_2014-15.pdf" target="_blank"><strong>download PDF application form</strong></a>
       <hr />
       <h3><?php  echo $title ?>	</h3>
       <h5>Mode of Study</h5>
@@ -23,8 +23,8 @@
       <h5> More Information </h5>
       <p>International Office on  +44 (0)20 8501 8106 or <a href="mailto:info@waltham.ac.uk">international@waltham.ac.uk</a></p>
       <!-- /section 1 --><!-- /section 2 --><!-- /section 3 -->
-      <a class="radius button"  href="<?PHP echo base_url(); ?>apply/<?php echo $url?>" >Apply Now</a>  
+      <a class="radius button"  href="<?PHP echo base_url(); ?>contact/" >Contact us to apply</a>  
     <p>&nbsp;</p>
-      <p>or,&nbsp;<a title="download PDF application form" href="http://www.waltham.ac.uk/images/stories/wfcapplicationform.pdf" target="_blank"><strong>download PDF application form	</strong></a>
+      <p>or,&nbsp;<a title="download PDF application form" href="/images/Application_form_new_version_2014-15.pdf" target="_blank"><strong>download PDF application form	</strong></a>
    </div>
 </div>
