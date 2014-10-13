@@ -16,8 +16,8 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://www.waltham.ac.uk/international/';
-
+//$config['base_url']	= 'http://www.waltham.ac.uk/international/';
+$config['base_url']	= 'http://localhost:8888/';
 
 
 /*
